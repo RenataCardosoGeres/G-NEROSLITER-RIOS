@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Gêneros Literários</title>
+  </head>
+  <body>
+    <h1><center>Gêneros Literários</center></h1>
+
+    <center>
+      <img
+        src="https://d1muf25xaso8hp.cloudfront.net/https://img.criativodahora.com.br/2024/05/criativo-66562a235b049img-2024-05-2866562a235b04b.jpg?w=1000&h=&auto=compress&dpr=1&fit=max"
+        alt="Livros"
+        width="200"
+        height="360"
+      />
+    </center>
+
+    <h1>
+      <center>O livro é uma extenção da memória e da imaginação</center>
+    </h1>
+
+    <h3>Tipos de Livros:</h3>
+
+    <ul>
+      <li>Romance</li>
+      <li>Fantasia</li>
+      <li>Aventura</li>
+      <li>Ficção Científica</li>
+      <li>Terror</li>
+    </ul>
+
+    <h3>Dicas de alguns livros de cada gênero literário:</h3>
+
+    <table border="5" cellpadding="15" cellspacing="5">
+      <tr>
+        <th>Romance</th>
+        <th>Fantasia</th>
+        <th>Aventura</th>
+        <th>Ficção Científica</th>
+        <th>Terror</th>
+      </tr>
+
+      <tr>
+        <td>
+          <img
+            src="https://m.media-amazon.com/images/I/91r5G8RxqfL._SY466_.jpg"
+            alt="É assim que acaba"
+            width="150"
+          />
+        </td>
+        <td>
+          <img
+            src="https://portalpepper.com.br/wp-content/uploads/2024/03/capa-quarta-asa.png"
+            alt="Quarta Asa"
+            width="160"
+          />
+        </td>
+
+        <td>
+          <img
+            src="https://m.media-amazon.com/images/I/61iA+6eVNoL._SY466_.jpg"
+            alt="O feitiço dos espinhos"
+            width="160"
+          />
+        </td>
+
+        <td>
+          <img
+            src="https://m.media-amazon.com/images/I/41MRn6hy8-L._SY445_SX342_.jpg"
+            alt="Duna"
+            width="160"
+          />
+        </td>
+
+        <td>
+          <img
+            src="https://m.media-amazon.com/images/I/51z0s3GcvwL._SY445_SX342_.jpg"
+            alt="IT A coisa"
+            width="160"
+          />
+        </td>
+      </tr>
+    </table>
+
+    <h1>
+      <center>OBRIGADA PELA ATENÇÃO!!!!</center>
+    </h1>
+
+    <h1>
+      <center>Criado por Renata, RA: 2412198</center>
+    </h1>
+
+    <footer>
+      <p>&copy;2024 Gêneros Literários. Todos os direitos reservados.</p>
+      <p></p>
+    </footer>
+  </body>
+</html>
